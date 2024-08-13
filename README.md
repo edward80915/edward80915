@@ -50,12 +50,12 @@ I am a passionate developer with a keen interest in building impactful software 
 
 ## 🌟 Projects
 Here are a few projects I've worked on:
-https://myquantex.com (MERN)
-https://worldie.com (MERN)
-https://www.funkypigeon.com/
-https://lumenac.com.ar/ (Vue+Tailwind CSS)
-https://www.radisson.com/ (MEVN)
-https://friendcrib.com/login (ReactJS/Laravel) (Smal MVP of Social Media Web App by using ReactJS and Backend with Laravel)
+  - https://myquantex.com (MERN)
+  - https://worldie.com (MERN)
+  - https://www.funkypigeon.com/
+  - https://lumenac.com.ar/ (Vue+Tailwind CSS)
+  - https://www.radisson.com/ (MEVN)
+  - https://friendcrib.com/login (ReactJS/Laravel) (Smal MVP of Social Media Web App by using ReactJS and Backend with Laravel)
 
 
 ## 💬 Let's Connect!
