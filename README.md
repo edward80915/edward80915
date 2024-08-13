@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Edward 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=edward80915&color=blue)
 
@@ -39,14 +39,14 @@ I am a passionate developer with a keen interest in building impactful software 
 
 ## 💼 Experience
 - **Senior Full Stack Developer** at **OJOChat**
-  Design and implemented new product features and web architecture
-  Develop over 10 automation tools using JavaScript, and PHP for a variety of clients
-  Identify opportunities to improve efficiency and functionality for servers, databases, and APIS
+  - Design and implemented new product features and web architecture
+  - Develop over 10 automation tools using JavaScript, and PHP for a variety of clients
+  - Identify opportunities to improve efficiency and functionality for servers, databases, and APIS
 
 - **BlockChain Developer** at **YOC**
-  Developed and implemented smart contracts using Solidity, ensuring secure and efficient execution on the Ethereum blockchain.
-  Analyzed business requirements and designed scalable blockchain solutions, incorporating consensus mechanisms and cryptographic algorithms.
-  Implemented blockchain integration into existing systems, enabling seamless and secure data transfer between multiple platforms
+  - Developed and implemented smart contracts using Solidity, ensuring secure and efficient execution on the Ethereum blockchain.
+  - Analyzed business requirements and designed scalable blockchain solutions, incorporating consensus mechanisms and cryptographic algorithms.
+  - Implemented blockchain integration into existing systems, enabling seamless and secure data transfer between multiple platforms
 
 ## 🌟 Projects
 Here are a few projects I've worked on:
